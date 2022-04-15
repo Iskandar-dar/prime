@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://telegra.ph/file/1da0ff9b5983912852f83.jpg">
+  <img src="https://telegra.ph/file/61ed0dde79286d7306cad.jpg">
 </p>
 
-<h4><p align="center"> PRIME MEGA </p></h4>
+<h4><p align="center"> SomedBot </p></h4>
 
 <p align="center">Prime Mega is a modular bot running on python3 with autobots theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/PrimeMegaBot"> <img src="https://img.shields.io/badge/Prime-Mega-blue?&logo=telegram" alt="Prime on Telegram" /> </a><br>
+<a href="https://t.me/somedku"> <img src="https://img.shields.io/badge/Prime-Mega-blue?&logo=telegram" alt="SomedBot on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.9.0-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
@@ -19,7 +19,7 @@
 
 ### Easiest Way To Deploy On Heroku 
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaWM5OTAvUHJpbWVNZWdhIE1hc3Rlcg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=SXNrYW5kYXItZGFyL3ByaW1lIE1hc3Rlcg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ```
 This Bot is Created by Prime Mega, If your kanging this without fork at least give a credit to get a smile of my hard work. 
